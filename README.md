@@ -1,0 +1,2 @@
+# langchain_paper_generate
+可以输入一个主题后自动生成一个论文题目，并且生成论文的写作提纲
